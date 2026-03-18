@@ -9,6 +9,17 @@
 
 This project demonstrates the deployment of a 2-tier web application (Flask + MySQL) on an AWS EC2 instance. The application is containerised using Docker and Docker Compose. A fully automated CI/CD pipeline is established using Jenkins to automatically build and deploy the application whenever new code is pushed to GitHub.
 
+## Screenshots
+
+### Live Application
+![Live App](screenshots/app.png)
+
+### Jenkins Pipeline
+![Jenkins Pipeline](screenshots/jenkins.png)
+
+### Docker Containers Running
+![Docker](screenshots/docker.png)
+
 ---
 
 ## Tech Stack
